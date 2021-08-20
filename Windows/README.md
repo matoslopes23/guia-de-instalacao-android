@@ -9,7 +9,7 @@
 ## Instalando dependências
 Você precisará do Node, da interface de linha de comando React Native, de um JDK e do Android Studio.
 
-Embora você possa usar qualquer editor de sua escolha para desenvolver seu aplicativo, você precisará instalar o Android Studio para configurar as ferramentas necessárias para construir seu aplicativo React Native para Android.
+Embora você possa usar qualquer editor de sua escolha para desenvolver seu aplicativo, você precisará instalar o Android Studio para configurar as ferramentas necessárias para construir seu aplicativo React Native para Android, porém você também pode utilizar o Expo para executar seu app e emular diretamente no celular, esta opção serve para quem tem um computador inferior.
 
 ### Node, JDK
 Instale o Node via [Chocolatey](https://chocolatey.org/), um gerenciador de pacotes popular para Windows.
@@ -248,18 +248,6 @@ Caminho para achar a Sdk
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![Capturar39](https://user-images.githubusercontent.com/82974806/130164953-4e19e7f4-4f83-47e5-a8ce-fcb1ad69254b.PNG)
 
 obs: Lá você encontrará uma pasta chamada SDK
@@ -325,7 +313,7 @@ Em seguida, clique em novo e adicione o caminho padrão:
 
 - Clique em ok e pronto!
 
-Para finalizar, abra o seu terminal em modo adminitrador e instale o Expli-cli com o comando:
+Para finalizar, abra o seu terminal em modo adminitrador e instale o Expo-cli com o comando:
 ```
 npm install -g expo-cli
 ```
@@ -334,3 +322,4 @@ npm install -g expo-cli
 ![Capturar46](https://user-images.githubusercontent.com/82974806/130167863-a50312b8-08a8-4e84-8425-c1f8a067f569.PNG)
 
 # Instalação e Configuração finalizada com sucesso!
+
